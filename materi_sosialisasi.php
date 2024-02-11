@@ -73,7 +73,7 @@
   </body>
     <footer>
         <div class="ratio ratio-4x3 d-flex align-items-center justify-content-center">
-            <p class="text-center" st>4x3, then 2x1</p>
+            <p class="text-center" st>Footer</p>
         </div>
     <footer>
 </html>

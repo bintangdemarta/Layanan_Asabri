@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="Asabri.png" type="image/icon type">
-    
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
@@ -59,7 +59,7 @@
   </body>
     <footer>
         <div class="ratio ratio-4x3 d-flex align-items-center justify-content-center">
-            <p class="text-center" st>4x3, then 2x1</p>
+            <p class="text-center" st>Footer</p>
         </div>
     <footer>
 </html>
