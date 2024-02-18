@@ -21,7 +21,7 @@
         }
     </style>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Asabri</a>
+        <a class="navbar-brand" href="">Asabri</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -36,6 +36,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="materi_Sosialisasi_Lengkap.php">Materi Sosialisasi Lengkap</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="materi_Sosialisasi_Lengkap.php">Bot AI</a>
             </li>
             </ul>
         </div>
